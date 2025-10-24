@@ -3,7 +3,7 @@
 **Preview link:** [Demo](https://ojaswakesharwani.github.io/PoultaryWala/)  
 **Live site:** [https://poultrywala.in/](https://poultrywala.in/)
 
-![PoultaryWala Banner](https://images.unsplash.com/photo-1603052875875-4ed8c97b43b3?auto=format&fit=crop&w=1400&q=80)
+![PoultaryWala Banner](https://static.vecteezy.com/system/resources/thumbnails/071/261/997/small_2x/curious-chicken-observes-busy-poultry-farm-coop-with-many-hens-moving-free-video.jpg)
 
 PoultaryWala is a **React + Vite** project designed to simplify poultry trading with a modern, responsive interface. It includes **Hot Module Replacement (HMR)**, ESLint setup, and is ready for production deployment.
 
@@ -17,7 +17,11 @@ PoultaryWala is a **React + Vite** project designed to simplify poultry trading 
 - Mobile-friendly and responsive  
 - Ready to expand with TypeScript and advanced linting
 
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) ![Vite Logo](https://vitejs.dev/logo-with-shadow.png)  
+<!-- Logos aligned horizontally -->
+<div style="display: flex; align-items: center; gap: 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="80" height="80" />
+  <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="80" height="80" />
+</div>
 
 ---
 
