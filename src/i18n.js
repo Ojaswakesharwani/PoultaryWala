@@ -152,6 +152,11 @@ i18n
       footer_enquiry_section: "Enquiry Section",
       footer_traders_contract: "For Traders and Contract Companies",
       footer_rights: "© 2025 Poultrywala | All Rights Reserved",
+      footer_legal: "Legal",
+      footer_privacy_policy: "Privacy Policy",
+      footer_terms_conditions: "Terms & Conditions",
+      footer_seller_policy: "Seller/Trader Policy",
+      footer_payment_refund: "Payment & Refund Policy",
 
       "future_reviews": {
           "0": {
@@ -187,9 +192,83 @@ i18n
              home: "Home",
              services: "Services",
              explore: "Explore"
-           }
+           },
         
 
+     "terms": {
+    "title": "Terms and Conditions of usage of Poultrywala Platform",
+    "effective_date": "Effective Date: 01/08/2025",
+    "platform_owner": "Platform Owner: Ninjafarm Services Private Limited (“Company”)",
+    "platform": "Platform: Poultrywala (web and mobile application)",
+    "intro": "These Terms and Conditions (“Terms”) govern your use of the Poultrywala platform as a Contract Poultry Farming Company or Individual Seller (“Seller,” “you,” or “your”). By registering on or using the platform, you agree to abide by these Terms.",
+
+    "section1_title": "1. Seller Eligibility and Onboarding",
+    "section1_point1": "You must be a legally registered entity or individual with the necessary licenses, permissions, and compliance as per applicable laws.",
+    "section1_point2": "You agree to provide accurate, complete, and verifiable information during registration and onboarding.",
+    "section1_point3": "Ninjafarm reserves the right to approve, reject, or suspend your account at its sole discretion.",
+
+    "section2_title": "2. Product Listings",
+    "section2_point1": "You shall list poultry products (e.g., broilers, chickens) with correct information including quantity, breed, Average body weight, price, health status, and delivery timelines.",
+    "section2_point2": "Misrepresentation of product details is strictly prohibited. Any false claims may lead to account suspension or legal action.",
+    "section2_point3": "You are solely responsible for ensuring your listed products meet the health, safety, and legal standards applicable in your region.",
+    "section2_point4": "You must sale quality birds on platform that meets health standards, if false quality information and poor injured birds listed and sales and more than 5% mortality happens during transport within limited time within 6hrs a seller will be liable for action and account suspension will happen after repetitive complaints.",
+
+    "section3_title": "3. Pricing and Commissions",
+    "section3_point1": "Sellers must display fair market prices.",
+    "section3_point2": "Ninjafarm may charge a platform fee or commission for each successful transaction. The applicable fees will be communicated and agreed upon during onboarding.",
+    "section3_point3": "Prices must be inclusive of all applicable charges unless otherwise specified.",
+    "section3_point4": "Ninjafarm Services Private Limited will take payment of goods from buyer on behalf of seller and same will be settled to sellers within decided time period after deducting commission, charges, taxes and after completion of delivery of birds to buyer successfully.",
+
+    "section4_title": "4. Order Fulfillment",
+    "section4_point1": "Once a trader (buyer) places an order, the Seller is obligated to fulfill it within the committed time and quantity.",
+    "section4_point2": "Any failure to deliver on time, under-supply, or delivery of substandard products may result in penalties, refund obligations, or delisting.",
+
+    "section5_title": "5. Refunds and Disputes",
+    "section5_point1": "Sellers must cooperate in good faith in case of refund requests or disputes.",
+    "section5_point2": "In case of quality issues or non-delivery, the Company may initiate refunds to the buyer and recover the amount from the Seller.",
+    "section5_point3": "Disputes will be resolved through a structured internal process, and the Company’s decision will be final.",
+
+    "section6_title": "6. Compliance with Laws",
+    "section6_point1": "Sellers must comply with all applicable local, state, and national laws including those relating to livestock trade, animal welfare, taxes, and food safety.",
+    "section6_point2": "Sellers are responsible for managing their own GST and tax filings as applicable.",
+
+    "section7_title": "7. Payments and Settlements",
+    "section7_point1": "Payments will be processed to Seller’s registered bank account after deducting applicable fees, taxes, and any refunds/penalties.",
+    "section7_point2": "Settlement timelines will be communicated transparently on the platform.",
+
+    "section8_title": "8. Platform Usage Guidelines",
+    "section8_point1": "Sellers must not misuse the platform for fraudulent, illegal, or unethical activities.",
+    "section8_point2": "Abusive behavior towards buyers, staff, or misuse of the Poultrywala brand is grounds for immediate termination.",
+    "section8_point3": "Sellers agree not to bypass the platform for offline transactions with Poultrywala buyers.",
+
+    "section9_title": "9. Intellectual Property",
+    "section9_point1": "All logos, trademarks, designs, and platform content belong to Ninjafarm Services Private Limited.",
+    "section9_point2": "Sellers must not use the Poultrywala name or logo without written permission.",
+
+    "section10_title": "10. Account Suspension or Termination",
+    "section10_point1": "The Company reserves the right to suspend or permanently terminate any seller account in case of:",
+    "section10_point2": "Repeated order issues",
+    "section10_point3": "Fraudulent activity",
+    "section10_point4": "Violation of these Terms",
+    "section10_point5": "Legal non-compliance",
+    "section10_point6": "Terminated Sellers may not re-register without express written consent.",
+
+    "section11_title": "11. Limitation of Liability",
+    "section11_point1": "The Company provides the platform “as is” and makes no warranties regarding uninterrupted service or guaranteed sales.",
+    "section11_point2": "Ninjafarm Services Private Limited is not liable for any direct or indirect damages arising from seller listings, performance, or disputes with buyers.",
+
+    "section12_title": "12. Amendments",
+    "section12_point": "These Terms may be updated from time to time. Continued use of the platform after updates constitutes acceptance of the revised Terms.",
+
+    "section13_title": "13. Governing Law",
+    "section13_point": "These Terms are governed by the laws of India. Any disputes will be subject to the jurisdiction of courts in [Insert City/State].",
+
+    "section14_title": "14. Contact Information",
+    "contact_name": "Ninjafarm Services Private Limited",
+    "contact_email": "Email: support@ninjafarm.in",
+    "contact_phone": "Phone: 9834512510",
+    "contact_address": "Registered Address: Amalner Dist Jalgaon Maharashtra India 425401"
+  }
       
       
 
@@ -342,6 +421,12 @@ i18n
       footer_enquiry_section: "पूछताछ अनुभाग",
       footer_traders_contract: "व्यापारियों और अनुबंध कंपनियों के लिए",
       footer_rights: "© 2025 पोल्ट्रीवाला | सर्वाधिकार सुरक्षित",
+      footer_legal: "कानूनी जानकारी",
+      footer_privacy_policy: "गोपनीयता नीति",
+      footer_terms_conditions: "नियम और शर्तें",
+      footer_seller_policy: "विक्रेता/व्यापारी नीति",
+      footer_payment_refund: "भुगतान और रिफंड नीति",
+
       "future_reviews": {
           "0": {
             "name": "रामेश यादव ",
@@ -375,7 +460,86 @@ i18n
             home: "होम",
             services: "सेवाएं",
             explore: "खोजें"
-          }
+          },
+
+
+          
+  "terms": {
+    "title": "पोल्ट्रीवाला प्लेटफ़ॉर्म के उपयोग की नियम और शर्तें",
+    "effective_date": "प्रभावी तिथि: 01/08/2025",
+    "platform_owner": "प्लेटफ़ॉर्म स्वामी: निंजाफार्म सर्विसेज प्राइवेट लिमिटेड (“कंपनी”)",
+    "platform": "प्लेटफ़ॉर्म: पोल्ट्रीवाला (वेब और मोबाइल एप्लिकेशन)",
+    "intro": "ये नियम और शर्तें (“नियम”) पोल्ट्रीवाला प्लेटफ़ॉर्म के आपके उपयोग को नियंत्रित करती हैं, चाहे आप कॉन्ट्रैक्ट पोल्ट्री फार्मिंग कंपनी हों या व्यक्तिगत विक्रेता (“विक्रेता”, “आप”). प्लेटफ़ॉर्म पर रजिस्टर करने या उपयोग जारी रखने पर आप इन नियमों का पालन करने के लिए सहमत होते हैं।",
+
+    "section1_title": "1. विक्रेता पात्रता और ऑनबोर्डिंग",
+    "section1_point1": "आपके पास कानूनी रूप से आवश्यक लाइसेंस, अनुमति और अनुपालन होना चाहिए तथा आप एक पंजीकृत संस्था या व्यक्ति होने चाहिए।",
+    "section1_point2": "आप पंजीकरण और ऑनबोर्डिंग के दौरान सटीक, पूर्ण और सत्यापित जानकारी प्रदान करने के लिए सहमत हैं।",
+    "section1_point3": "निंजाफार्म अपने विवेकानुसार आपके खाते को स्वीकृत, अस्वीकृत या निलंबित करने का अधिकार रखता है।",
+
+    "section2_title": "2. उत्पाद सूचीकरण",
+    "section2_point1": "आपको पोल्ट्री उत्पादों (जैसे ब्रॉयलर, चिकन) की सही जानकारी जैसे मात्रा, नस्ल, औसत वजन, कीमत, स्वास्थ्य स्थिति और डिलीवरी समय सीमा के साथ सूचीकरण करना होगा।",
+    "section2_point2": "उत्पाद विवरण में गलत जानकारी देना सख्त वर्जित है। किसी भी प्रकार की गलत जानकारी पर आपका खाता निलंबित किया जा सकता है या कानूनी कार्रवाई हो सकती है।",
+    "section2_point3": "आप यह सुनिश्चित करने के लिए पूर्ण रूप से जिम्मेदार हैं कि आपके सूचीबद्ध उत्पाद आपके क्षेत्र में लागू स्वास्थ्य, सुरक्षा और कानूनी मानकों को पूरा करते हैं।",
+    "section2_point4": "आपको प्लेटफ़ॉर्म पर केवल गुणवत्तापूर्ण पक्षी बेचने होंगे। यदि गलत गुणवत्ता जानकारी, घायल पक्षी, या खराब गुणवत्ता के कारण 6 घंटे के भीतर परिवहन के दौरान 5% से अधिक मृत्यु होती है, तो विक्रेता पर कार्रवाई की जाएगी और बार-बार शिकायत मिलने पर खाता निलंबित कर दिया जाएगा।",
+
+    "section3_title": "3. मूल्य निर्धारण और कमीशन",
+    "section3_point1": "विक्रेताओं को उचित बाजार मूल्य प्रदर्शित करना आवश्यक है।",
+    "section3_point2": "प्रत्येक सफल लेन-देन पर निंजाफार्म प्लेटफ़ॉर्म शुल्क या कमीशन ले सकता है। यह शुल्क आपको ऑनबोर्डिंग के दौरान सूचित और सहमति के बाद लागू होगा।",
+    "section3_point3": "कीमतें सभी लागू शुल्कों सहित होनी चाहिए, जब तक कि अलग से उल्लेख न किया गया हो।",
+    "section3_point4": "निंजाफार्म खरीदार से विक्रेता की ओर से भुगतान प्राप्त करेगा और कमीशन, शुल्क, कर एवं सफल डिलीवरी के बाद शेष राशि विक्रेता को निर्धारित समय सीमा में भेजेगा।",
+
+    "section4_title": "4. ऑर्डर पूर्ति",
+    "section4_point1": "एक बार खरीदार (ट्रेडर) द्वारा ऑर्डर देने के बाद, विक्रेता समय और मात्रा की प्रतिबद्धता के अनुसार ऑर्डर पूरा करने के लिए बाध्य है।",
+    "section4_point2": "समय पर डिलीवरी न करने, कम मात्रा देने, या घटिया गुणवत्ता के उत्पाद देने पर दंड, रिफंड या डीलिस्टिंग हो सकती है।",
+
+    "section5_title": "5. रिफंड और विवाद",
+    "section5_point1": "विक्रेताओं को किसी भी रिफंड अनुरोध या विवाद की स्थिति में सद्भावपूर्वक सहयोग करना होगा।",
+    "section5_point2": "यदि गुणवत्ता संबंधी समस्या या डिलीवरी न हो, तो कंपनी खरीदार को रिफंड कर सकती है और संबंधित राशि विक्रेता से वसूल सकती है।",
+    "section5_point3": "विवाद एक संरचित आंतरिक प्रक्रिया के माध्यम से हल किए जाएंगे, और कंपनी का निर्णय अंतिम होगा।",
+
+    "section6_title": "6. कानूनों का अनुपालन",
+    "section6_point1": "विक्रेताओं को सभी स्थानीय, राज्य और राष्ट्रीय कानूनों का पालन करना आवश्यक है, जिनमें पशु कल्याण, पोल्ट्री व्यापार, कर और खाद्य सुरक्षा शामिल हैं।",
+    "section6_point2": "विक्रेता अपने स्वयं के जीएसटी और कर दाखिलों के लिए जिम्मेदार हैं।",
+
+    "section7_title": "7. भुगतान और निपटान",
+    "section7_point1": "सभी शुल्क, कर और किसी भी रिफंड/दंड को घटाकर भुगतान विक्रेता के पंजीकृत बैंक खाते में भेजा जाएगा।",
+    "section7_point2": "निपटान समय सीमा प्लेटफ़ॉर्म पर पारदर्शी रूप से बताई जाएगी।",
+
+    "section8_title": "8. प्लेटफ़ॉर्म उपयोग दिशानिर्देश",
+    "section8_point1": "विक्रेता प्लेटफ़ॉर्म का उपयोग किसी भी धोखाधड़ी, अवैध या अनैतिक गतिविधि के लिए नहीं कर सकते।",
+    "section8_point2": "खरीदारों, कर्मचारियों या ब्रांड के प्रति अपमानजनक व्यवहार पर तुरंत खाता समाप्त किया जा सकता है।",
+    "section8_point3": "विक्रेता प्लेटफ़ॉर्म को बायपास कर ऑफ़लाइन लेन-देन नहीं कर सकते।",
+
+    "section9_title": "9. बौद्धिक संपदा",
+    "section9_point1": "सभी लोगो, ट्रेडमार्क, डिज़ाइन और प्लेटफ़ॉर्म सामग्री निंजाफार्म सर्विसेज प्राइवेट लिमिटेड की संपत्ति हैं।",
+    "section9_point2": "विक्रेता बिना लिखित अनुमति के पोल्ट्रीवाला का नाम या लोगो उपयोग नहीं कर सकते।",
+
+    "section10_title": "10. खाता निलंबन या समाप्ति",
+    "section10_point1": "निम्न स्थितियों में कंपनी विक्रेता का खाता निलंबित या स्थायी रूप से समाप्त कर सकती है:",
+    "section10_point2": "बार-बार ऑर्डर समस्याएँ",
+    "section10_point3": "धोखाधड़ी गतिविधि",
+    "section10_point4": "नियमों का उल्लंघन",
+    "section10_point5": "कानूनी अनुपालन न होना",
+    "section10_point6": "खाता समाप्त होने पर विक्रेता कंपनी की लिखित अनुमति के बिना पुनः पंजीकरण नहीं कर सकते।",
+
+    "section11_title": "11. दायित्व की सीमा",
+    "section11_point1": "कंपनी प्लेटफ़ॉर्म 'जैसा है' के आधार पर प्रदान करती है और बिना रुकावट सेवा या गारंटीड बिक्री का कोई दावा नहीं करती।",
+    "section11_point2": "किसी भी प्रत्यक्ष या अप्रत्यक्ष नुकसान, विक्रेता सूची, प्रदर्शन या खरीदार विवादों के लिए निंजाफार्म जिम्मेदार नहीं होगा।",
+
+    "section12_title": "12. संशोधन",
+    "section12_point": "कंपनी समय-समय पर इन नियमों को अपडेट कर सकती है। अपडेट के बाद प्लेटफ़ॉर्म का उपयोग जारी रखना नए नियमों की स्वीकृति माना जाएगा।",
+
+    "section13_title": "13. प्रभार्य कानून",
+    "section13_point": "ये नियम भारत के कानूनों द्वारा शासित हैं। किसी भी विवाद का निपटारा [शहर/राज्य] के न्यायालयों में किया जाएगा।",
+
+    "section14_title": "14. संपर्क जानकारी",
+    "contact_name": "निंजाफार्म सर्विसेज प्राइवेट लिमिटेड",
+    "contact_email": "ईमेल: support@ninjafarm.in",
+    "contact_phone": "फ़ोन: 9834512510",
+    "contact_address": "पंजीकृत पता: अमलनेर जिला जलगांव, महाराष्ट्र, भारत 425401"
+  }
+
+
        
       
       
@@ -526,8 +690,12 @@ i18n
        footer_website: "वेबसाईट",
        footer_enquiry_section: "चौकशी विभाग",
        footer_traders_contract: "व्यापारी आणि करार कंपन्यांसाठी",
-       footer_rights: "© 2025 पोल्ट्रीवाला | सर्व हक्क राखीव",
-
+        footer_rights: "© 2025 पोल्ट्रीवाला | सर्व हक्क राखीव",
+        footer_legal: "कायदेशीर माहिती",
+      footer_privacy_policy: "गोपनीयता धोरण",
+      footer_terms_conditions: "नियम आणि अटी",
+      footer_seller_policy: "विक्रेता/व्यापारी धोरण",
+      footer_payment_refund: "पेमेंट आणि परतावा धोरण",
 
        "future_reviews": {
           "0": {
@@ -563,7 +731,86 @@ i18n
              home: "मुख्यपृष्ठ",
              services: "सेवा",
              explore: "एक्सप्लोर करा"
-           }
+           },
+
+
+           
+  "terms": {
+    "title": "पोल्ट्रीवाला प्लॅटफॉर्मच्या वापराच्या अटी व शर्ती",
+    "effective_date": "प्रभावी तारीख: 01/08/2025",
+    "platform_owner": "प्लॅटफॉर्म मालक: निंजाफार्म सर्व्हिसेस प्रायव्हेट लिमिटेड (“कंपनी”)",
+    "platform": "प्लॅटफॉर्म: पोल्ट्रीवाला (वेब आणि मोबाइल अनुप्रयोग)",
+    "intro": "या अटी व शर्ती (“अटी”) पोल्ट्रीवाला प्लॅटफॉर्मचा तुमचा वापर नियंत्रित करतात. तुम्ही करार पोल्ट्री फार्मिंग कंपनी किंवा वैयक्तिक विक्रेता (“विक्रेता”, “आपण”) असलात तरी प्लॅटफॉर्मवर नोंदणी करून किंवा वापर सुरू ठेवून तुम्ही या अटी मान्य करता.",
+
+    "section1_title": "1. विक्रेता पात्रता आणि ऑनबोर्डिंग",
+    "section1_point1": "तुम्ही कायदेशीररित्या आवश्यक परवाने, अनुमती आणि इतर अनुपालनांसह नोंदणीकृत संस्था किंवा वैयक्तिक व्यक्ती असणे आवश्यक आहे.",
+    "section1_point2": "नोंदणी आणि ऑनबोर्डिंग दरम्यान अचूक, पूर्ण आणि सत्य माहिती देणे आवश्यक आहे.",
+    "section1_point3": "निंजाफार्म आपल्या विवेकाधिकाराने खाते मंजूर, नाकारू किंवा निलंबित करू शकते.",
+
+    "section2_title": "2. उत्पादन सूचीकरण",
+    "section2_point1": "तुम्ही पोल्ट्री उत्पादने (उदा. ब्रॉयलर, कोंबड्या) योग्य माहितींसह सूचीबद्ध करावीत — प्रमाण, जात, सरासरी वजन, किंमत, आरोग्य स्थिती आणि डिलिव्हरी वेळ.",
+    "section2_point2": "उत्पादनाच्या तपशीलात चुकीची माहिती देणे पूर्णपणे प्रतिबंधित आहे. अशा खोट्या माहितीसाठी खाते निलंबित केले जाऊ शकते किंवा कायदेशीर कारवाई होऊ शकते.",
+    "section2_point3": "उत्पादने आरोग्य, सुरक्षा आणि स्थानिक कायद्यांनुसार आहेत याची संपूर्ण जबाबदारी विक्रेत्याची आहे.",
+    "section2_point4": "तुम्ही केवळ गुणवत्तापूर्ण पक्षी विकणे आवश्यक आहे. चुकीची गुणवत्ता माहिती, जखमी पक्षी किंवा खराब पक्षी असल्यास, आणि 6 तासांच्या आत वाहतुकीदरम्यान 5% पेक्षा अधिक मृत्यू झाल्यास विक्रेत्यावर कारवाई केली जाईल आणि वारंवार तक्रारी आल्यास खाते निलंबित केले जाईल.",
+
+    "section3_title": "3. किंमत आणि कमिशन",
+    "section3_point1": "विक्रेत्यांनी उचित बाजारभाव दर्शवावा.",
+    "section3_point2": "प्रत्येक यशस्वी व्यवहारासाठी निंजाफार्म प्लॅटफॉर्म फी किंवा कमिशन आकारू शकते. ऑनबोर्डिंगदरम्यान याबाबत माहिती व सहमती घेतली जाईल.",
+    "section3_point3": "किंमती सर्व लागू शुल्कांसह असाव्यात, जोपर्यंत वेगळे नमूद केलेले नाही.",
+    "section3_point4": "निंजाफार्म खरेदीदाराकडून विक्रेत्याच्या वतीने पैसे घेईल आणि कमिशन, शुल्क, कर व यशस्वी डिलिव्हरीनंतर शिल्लक रक्कम निश्चित कालावधीत विक्रेत्याला पाठवील.",
+
+    "section4_title": "4. ऑर्डर पूर्णता",
+    "section4_point1": "खरेदीदाराने ऑर्डर दिल्यानंतर विक्रेत्याने वचनबद्ध वेळेत आणि प्रमाणात ऑर्डर पूर्ण करणे आवश्यक आहे.",
+    "section4_point2": "वेळेत डिलिव्हरी न करणे, कमी प्रमाण देणे किंवा खराब गुणवत्ता दिल्यास दंड, रिफंड किंवा डिलिस्टिंग होऊ शकते.",
+
+    "section5_title": "5. रिफंड आणि वाद",
+    "section5_point1": "वाद किंवा रिफंड विनंतीच्या बाबतीत विक्रेत्याने प्रामाणिक सहकार्य करणे आवश्यक आहे.",
+    "section5_point2": "गुणवत्ता समस्या किंवा डिलिव्हरी न झाल्यास कंपनी खरेदीदाराला रिफंड करू शकते आणि ती रक्कम विक्रेत्याकडून वसूल करू शकते.",
+    "section5_point3": "वाद कंपनीच्या अंतर्गत प्रक्रियेद्वारे सोडवले जातील आणि कंपनीचा निर्णय अंतिम असेल.",
+
+    "section6_title": "6. कायदेपालन",
+    "section6_point1": "विक्रेत्यांनी सर्व स्थानिक, राज्य आणि राष्ट्रीय कायद्यांचे पालन करणे आवश्यक आहे, ज्यात पशुसंवर्धन, पोल्ट्री व्यापार, कर आणि खाद्य सुरक्षा समाविष्ट आहे.",
+    "section6_point2": "विक्रेता स्वतःच्या जीएसटी आणि कर फाइलिंगसाठी जबाबदार आहे.",
+
+    "section7_title": "7. पेमेंट आणि सेटलमेंट",
+    "section7_point1": "सर्व शुल्क, कर आणि कोणत्याही दंड/रिफंड वजा करून पेमेंट विक्रेत्याच्या नोंदणीकृत खात्यावर पाठविले जाईल.",
+    "section7_point2": "सेटलमेंट वेळ प्लॅटफॉर्मवर पारदर्शकपणे कळविले जाईल.",
+
+    "section8_title": "8. प्लॅटफॉर्म वापर नियम",
+    "section8_point1": "प्लॅटफॉर्मचा गैरवापर, फसवणूक, बेकायदेशीर किंवा अनैतिक कृतींसाठी वापर करू नये.",
+    "section8_point2": "खरेदीदार, कर्मचारी किंवा ब्रँडविरुद्ध अपमानास्पद वर्तनावर खाते तात्काळ रद्द केले जाऊ शकते.",
+    "section8_point3": "प्लॅटफॉर्मला बायपास करून ऑफलाइन व्यवहार करणे पूर्णपणे निषिद्ध आहे.",
+
+    "section9_title": "9. बौद्धिक संपदा",
+    "section9_point1": "सर्व लोगो, ट्रेडमार्क, डिझाईन आणि प्लॅटफॉर्मवरील सामग्री निंजाफार्म सर्व्हिसेस प्रा. लि. ची मालमत्ता आहे.",
+    "section9_point2": "लिखित परवानगीशिवाय विक्रेत्याने पोल्ट्रीवाला नाव किंवा लोगो वापरू नये.",
+
+    "section10_title": "10. खाते निलंबन किंवा समाप्ती",
+    "section10_point1": "खालील परिस्थितींमध्ये कंपनी खाते निलंबित किंवा समाप्त करू शकते:",
+    "section10_point2": "वारंवार ऑर्डर समस्या",
+    "section10_point3": "फसवणूक",
+    "section10_point4": "अटींचे उल्लंघन",
+    "section10_point5": "कायदेशीर नियमांचे पालन न करणे",
+    "section10_point6": "खाते समाप्त झाल्यास, लिखित परवानगीशिवाय पुन्हा नोंदणी करता येणार नाही.",
+
+    "section11_title": "11. जबाबदारीची मर्यादा",
+    "section11_point1": "कंपनी प्लॅटफॉर्म 'जशास तसे' उपलब्ध करून देते आणि अखंड सेवा किंवा हमीदार विक्रीचे कोणतेही वचन देत नाही.",
+    "section11_point2": "विक्रेत्याच्या सूची, कामगिरी किंवा खरेदीदारांसोबत उद्भवलेल्या वादांमुळे होणाऱ्या कोणत्याही प्रत्यक्ष किंवा अप्रत्यक्ष नुकसानीसाठी कंपनी जबाबदार नाही.",
+
+    "section12_title": "12. सुधारणा",
+    "section12_point": "कंपनी वेळोवेळी अटी अपडेट करू शकते. अपडेटनंतर प्लॅटफॉर्मचा वापर सुरू ठेवणे म्हणजे नवीन अटी स्वीकृत असल्याचे समजले जाईल.",
+
+    "section13_title": "13. लागू कायदा",
+    "section13_point": "या अटी भारताच्या कायद्यांनुसार नियंत्रित केल्या जातील. कोणताही वाद [शहर/राज्य] येथील न्यायालयांत निकाली काढला जाईल.",
+
+    "section14_title": "14. संपर्क माहिती",
+    "contact_name": "निंजाफार्म सर्व्हिसेस प्रायव्हेट लिमिटेड",
+    "contact_email": "ईमेल: support@ninjafarm.in",
+    "contact_phone": "फोन: 9834512510",
+    "contact_address": "नोंदणीकृत पत्ता: अमळनेर, जळगाव जिल्हा, महाराष्ट्र, भारत 425401"
+  }
+
+
       
        
        

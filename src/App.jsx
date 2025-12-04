@@ -1,4 +1,6 @@
 import React from "react";
+import { Routes, Route, useLocation } from "react-router-dom";
+
 import Navbar from "./components/layouts/Navbar.jsx";
 import Footer from "./components/layouts/Footer.jsx";
 import Home from "./components/layouts/Home.jsx";
@@ -8,47 +10,72 @@ import About from "./components/layouts/About.jsx";
 import Explore from "./components/layouts/Explore.jsx";
 import Services from "./components/layouts/Services.jsx";
 
-import LanguagePopup from "./components/layouts/languagepopup.jsx"
+import LanguagePopup from "./components/layouts/languagepopup.jsx";
 import { useTranslation } from "react-i18next";
+
+import TermsAndCondition from "./pages/TermsAndCondition.jsx";
 
 function App() {
   const { t } = useTranslation();
+  const location = useLocation();
+
+  // Pages where BOTH navbar and footer should be hidden
+  const hideLayoutOn = [
+    "/terms-and-conditions",
+    "/privacy-policy",
+    "/seller-policy",
+    "/payment-policy"
+  ];
+
+  const shouldHideLayout = hideLayoutOn.includes(location.pathname);
 
   return (
     <>
-      {/*  Language Selector Popup */}
-      <LanguagePopup />
+      {/* Only show language popup on main site */}
+      {!shouldHideLayout && <LanguagePopup />}
 
-      {/* Common Navbar */}
-      <Navbar />
+      {/* Hide navbar on legal pages */}
+      {!shouldHideLayout && <Navbar />}
 
-      {/* Scrollable sequence of sections */}
-      <div id="home">
-        <Home title={t("welcome")} />
-      </div>
+      <Routes>
+        {/* MAIN PAGE */}
+        <Route
+          path="/"
+          element={
+            <>
+              <div id="home">
+                <Home title={t("welcome")} />
+              </div>
 
-      <div id="about">
-        <About title={t("about")} />
-      </div>
+              <div id="about">
+                <About title={t("about")} />
+              </div>
 
-      <div id="services">
-        <Services title={t("services")} />
-      </div>
+              <div id="services">
+                <Services title={t("services")} />
+              </div>
 
-      <div id="explore">
-        <Explore title={t("explore")} />
-      </div>
+              <div id="explore">
+                <Explore title={t("explore")} />
+              </div>
 
-      <div id="future">
-        <Future title={t("future")} />
-      </div>
+              <div id="future">
+                <Future title={t("future")} />
+              </div>
 
-      <div id="presence">
-        <Presence title={t("presence")} />
-      </div>
+              <div id="presence">
+                <Presence title={t("presence")} />
+              </div>
+            </>
+          }
+        />
 
-      {/* Common Footer */}
-      <Footer text={t("footer")} />
+        {/* LEGAL PAGE */}
+        <Route path="/terms-and-conditions" element={<TermsAndCondition />} />
+      </Routes>
+
+      {/* Hide footer on legal pages */}
+      {!shouldHideLayout && <Footer text={t("footer")} />}
     </>
   );
 }

@@ -1,4 +1,5 @@
 import { useTranslation } from "react-i18next";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   const { t } = useTranslation();
@@ -8,7 +9,7 @@ const Footer = () => {
       {/* Yellow top border */}
       <div className="absolute top-0 left-0 w-full h-0.5 bg-yellow-400"></div>
 
-      <div className="max-w-6xl mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
+      <div className="max-w-6xl mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-8 text-center md:text-left">
         
         {/* Company Info */}
         <div>
@@ -31,6 +32,26 @@ const Footer = () => {
           <h3 className="text-xl font-semibold mb-2">{t("footer_enquiry_section")}</h3>
           <p>{t("footer_traders_contract")}</p>
         </div>
+
+        {/* Legal Links Section */}
+        <div>
+            <h3 className="text-xl font-semibold mb-2">{t("footer_legal")}</h3>
+          <ul className="space-y-1">
+            <li>
+              <Link to="/privacy-policy" className="hover:underline">{t("footer_privacy_policy")}</Link>
+            </li>
+            <li>
+                <Link to="/terms-and-conditions">{t("footer_terms_conditions")}</Link>
+            </li>
+            <li>
+              <Link to="/seller-policy" className="hover:underline">{t("footer_seller_policy")}</Link>
+            </li>
+            <li>
+              <Link to="/payment-policy" className="hover:underline">{t("footer_payment_refund")}</Link>
+            </li>
+          </ul>
+        </div>
+
       </div>
 
       {/* Bottom line */}
