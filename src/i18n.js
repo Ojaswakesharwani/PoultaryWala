@@ -268,7 +268,99 @@ i18n
     "contact_email": "Email: support@ninjafarm.in",
     "contact_phone": "Phone: 9834512510",
     "contact_address": "Registered Address: Amalner Dist Jalgaon Maharashtra India 425401"
-  }
+  },
+
+  "privacy": {
+  "title": "Privacy Policy for Sellers",
+  "effective_date_label": "Effective Date:",
+  "effective_date": "01/08/2025",
+
+  "intro1": "Ninjafarm Services Private Limited (“we,” “us,” “our”), through its platform p, is committed to protecting the privacy and personal/business information of Contract Poultry Farming Companies and Individual Sellers (“you,” “your,” or “users”) who list and sell their poultry produce via our digital platform.",
+  "intro2": "This Privacy Policy outlines how we collect, use, share, and safeguard your information when you access or use the Poultrywala platform.",
+
+  "section1_title": "1. Information We Collect",
+  "section1_intro": "We may collect the following types of data:",
+
+  "section1_a_title": "a. Business Information",
+  "section1_a_list": [
+    "Company name, registration details (CIN, GST, etc.)",
+    "Business proof like registration certificate or any other proof",
+    "Authorized contact person’s name, phone number, email",
+    "Farm address/location",
+    "Product listings (type, breed, weight, rate, availability)",
+    "Bank account details for payments"
+  ],
+
+  "section1_b_title": "b. Individual Seller Information",
+  "section1_b_list": [
+    "Full name",
+    "Aadhaar number / PAN card (for verification)",
+    "Phone number and email",
+    "Farm address/location",
+    "Product details",
+    "Payment and bank details",
+    "Business proof like registration certificate or shop act licence"
+  ],
+
+  "section1_c_title": "c. Platform Usage Data",
+  "section1_c_list": [
+    "Login information (IP address, device type, OS)",
+    "App or website interactions, preferences, listings",
+    "Transactional history (orders, payments, refunds)"
+  ],
+
+  "section2_title": "2. How We Use Your Information",
+  "section2_list": [
+    "Create and manage your seller account",
+    "Display your listed poultry produce to verified buyers",
+    "Facilitate secure transactions and payments",
+    "Verify your identity and ensure authenticity",
+    "Communicate regarding orders, support, and updates",
+    "Comply with legal obligations and tax regulations",
+    "Improve platform functionality and user experience"
+  ],
+
+  "section3_title": "3. Sharing Your Information",
+  "section3_list": [
+    "We do not sell or rent your personal or business data.",
+    "With verified and registered traders for the purpose of order processing",
+    "With government authorities or regulators if required under law",
+    "With payment partners, logistics providers, or service vendors under strict confidentiality for order fulfillment",
+    "With internal teams for customer support, audit, and operations"
+  ],
+
+  "section4_title": "4. Your Rights",
+  "section4_list": [
+    "Access the data we hold about you",
+    "Request correction of incorrect or outdated information",
+    "Request deletion of your account and data (unless legally required to retain it)",
+    "Opt-out of non-essential communications"
+  ],
+
+  "section5_title": "5. Data Security",
+  "section5_intro": "We implement strong technical and administrative safeguards to protect your data, including:",
+  "section5_list": [
+    "End-to-end encryption",
+    "Secure servers and role-based access control",
+    "Regular audits and monitoring"
+  ],
+  "section5_note": "Despite our efforts, no system is 100% secure. You are responsible for keeping your login credentials confidential.",
+
+  "section6_title": "6. Third-Party Services",
+  "section6_text": "The Poultrywala platform may integrate with third-party services such as payment gateways, logistics providers, or accounting tools. Their use is governed by their own privacy policies.",
+
+  "section7_title": "7. Retention of Data",
+  "section7_text": "We retain your data for as long as your account is active or as needed to comply with legal and regulatory requirements, resolve disputes, and enforce our agreements.",
+
+  "section8_title": "8. Changes to this Policy",
+  "section8_text": "We may update this policy from time to time. Continued use of the platform after such changes implies acceptance.",
+
+  "section9_title": "9. Contact Us",
+  "section9_address": "Registered Office: Amalner Dist Jalgaon Maharashtra India",
+  "section9_email": "Email: support@ninjafarm.in",
+  "section9_phone": "Phone: 9834512510"
+}
+
       
       
 
@@ -537,7 +629,99 @@ i18n
     "contact_email": "ईमेल: support@ninjafarm.in",
     "contact_phone": "फ़ोन: 9834512510",
     "contact_address": "पंजीकृत पता: अमलनेर जिला जलगांव, महाराष्ट्र, भारत 425401"
-  }
+  },
+
+  "privacy": {
+  "title": "विक्रेताओं के लिए गोपनीयता नीति",
+  "effective_date_label": "प्रभावी तिथि:",
+  "effective_date": "01/08/2025",
+
+  "intro1": "Ninjafarm Services Private Limited (“हम,” “हमें,” “हमारा”) अपने प्लेटफ़ॉर्म p के माध्यम से कॉन्ट्रैक्ट पोल्ट्री फ़ार्मिंग कंपनियों और व्यक्तिगत विक्रेताओं (“आप,” “आपका,” “उपयोगकर्ता”) की व्यक्तिगत/व्यावसायिक जानकारी की सुरक्षा के लिए प्रतिबद्ध है, जो हमारे डिजिटल प्लेटफ़ॉर्म पर अपनी पोल्ट्री उत्पाद सूचीबद्ध और बेचते हैं।",
+  "intro2": "यह गोपनीयता नीति बताती है कि Poultrywala प्लेटफ़ॉर्म का उपयोग करते समय हम आपकी जानकारी कैसे एकत्रित, उपयोग, साझा और सुरक्षित करते हैं।",
+
+  "section1_title": "1. हम कौन-सी जानकारी एकत्र करते हैं",
+  "section1_intro": "हम निम्न प्रकार की जानकारी एकत्र कर सकते हैं:",
+
+  "section1_a_title": "a. व्यावसायिक जानकारी",
+  "section1_a_list": [
+    "कंपनी का नाम, पंजीकरण विवरण (CIN, GST, आदि)",
+    "व्यवसाय प्रमाण जैसे पंजीकरण प्रमाणपत्र या अन्य प्रमाण",
+    "अधिकृत संपर्क व्यक्ति का नाम, फ़ोन नंबर, ईमेल",
+    "फ़ार्म का पता/स्थान",
+    "उत्पाद सूची (प्रकार, नस्ल, वजन, दर, उपलब्धता)",
+    "भुगतान हेतु बैंक विवरण"
+  ],
+
+  "section1_b_title": "b. व्यक्तिगत विक्रेता की जानकारी",
+  "section1_b_list": [
+    "पूरा नाम",
+    "आधार नंबर / पैन कार्ड (सत्यापन हेतु)",
+    "फ़ोन नंबर और ईमेल",
+    "फ़ार्म का पता/स्थान",
+    "उत्पाद विवरण",
+    "भुगतान और बैंक संबंधी जानकारी",
+    "व्यवसाय प्रमाण जैसे पंजीकरण प्रमाणपत्र या दुकान अधिनियम लाइसेंस"
+  ],
+
+  "section1_c_title": "c. प्लेटफ़ॉर्म उपयोग डेटा",
+  "section1_c_list": [
+    "लॉगिन जानकारी (IP पता, डिवाइस प्रकार, OS)",
+    "ऐप/वेबसाइट गतिविधि, पसंद, लिस्टिंग",
+    "लेन-देन इतिहास (ऑर्डर, भुगतान, रिफंड)"
+  ],
+
+  "section2_title": "2. हम आपकी जानकारी का उपयोग कैसे करते हैं",
+  "section2_list": [
+    "आपका विक्रेता खाता बनाना और प्रबंधित करना",
+    "आपकी उत्पाद सूची को सत्यापित खरीदारों को दिखाना",
+    "सुरक्षित लेनदेन और भुगतान करना",
+    "आपकी पहचान सत्यापित करना",
+    "ऑर्डर, सहायता और अपडेट से संबंधित संचार",
+    "कानूनी और कर संबंधी आवश्यकताओं का पालन",
+    "प्लेटफ़ॉर्म की कार्यक्षमता और उपयोगकर्ता अनुभव में सुधार"
+  ],
+
+  "section3_title": "3. आपकी जानकारी किसके साथ साझा की जाती है",
+  "section3_list": [
+    "हम आपकी व्यक्तिगत/व्यावसायिक जानकारी को नहीं बेचते और न किराए पर देते हैं।",
+    "ऑर्डर प्रोसेसिंग हेतु सत्यापित व्यापारियों के साथ",
+    "कानून के अनुसार आवश्यक होने पर सरकारी प्राधिकरणों के साथ",
+    "भुगतान भागीदारों, लॉजिस्टिक्स प्रदाताओं या सेवा विक्रेताओं के साथ (गोपनीयता के तहत)",
+    "ग्राहक सहायता, ऑडिट और संचालन हेतु आंतरिक टीमों के साथ"
+  ],
+
+  "section4_title": "4. आपके अधिकार",
+  "section4_list": [
+    "हमारे पास मौजूद आपकी जानकारी देखने का अधिकार",
+    "गलत या पुरानी जानकारी को सही कराने का अधिकार",
+    "अपने खाते और डेटा को हटाने का अनुरोध करने का अधिकार (यदि कानूनन आवश्यक न हो)",
+    "गैर-जरूरी संदेशों से बाहर निकलने का अधिकार"
+  ],
+
+  "section5_title": "5. डेटा सुरक्षा",
+  "section5_intro": "हम आपकी जानकारी की सुरक्षा के लिए मजबूत तकनीकी और प्रशासनिक उपाय अपनाते हैं, जैसे कि:",
+  "section5_list": [
+    "एंड-टू-एंड एन्क्रिप्शन",
+    "सुरक्षित सर्वर और रोल-आधारित एक्सेस नियंत्रण",
+    "नियमित ऑडिट और निगरानी"
+  ],
+  "section5_note": "हमारी पूरी कोशिश के बावजूद कोई भी प्रणाली 100% सुरक्षित नहीं है। अपनी लॉगिन जानकारी की सुरक्षा आपकी जिम्मेदारी है।",
+
+  "section6_title": "6. तृतीय-पक्ष सेवाएं",
+  "section6_text": "Poultrywala प्लेटफ़ॉर्म तीसरे पक्ष की सेवाओं (भुगतान गेटवे, लॉजिस्टिक्स, अकाउंटिंग टूल) से जुड़ सकता है। उनका उपयोग उनकी गोपनीयता नीति के अधीन होगा।",
+
+  "section7_title": "7. डेटा संग्रह अवधि",
+  "section7_text": "हम आपका डेटा तब तक रखते हैं जब तक आपका खाता सक्रिय है या कानूनी/नियामक आवश्यकताओं को पूरा करने के लिए आवश्यक हो।",
+
+  "section8_title": "8. इस नीति में बदलाव",
+  "section8_text": "हम समय-समय पर इस नीति को अपडेट कर सकते हैं। अपडेट के बाद प्लेटफ़ॉर्म का निरंतर उपयोग आपकी सहमति माना जाएगा।",
+
+  "section9_title": "9. हमसे संपर्क करें",
+  "section9_address": "पंजीकृत कार्यालय: अमलनेर जिला जलगांव, महाराष्ट्र, भारत",
+  "section9_email": "Email: support@ninjafarm.in",
+  "section9_phone": "Phone: 9834512510"
+}
+
 
 
        
@@ -808,7 +992,99 @@ i18n
     "contact_email": "ईमेल: support@ninjafarm.in",
     "contact_phone": "फोन: 9834512510",
     "contact_address": "नोंदणीकृत पत्ता: अमळनेर, जळगाव जिल्हा, महाराष्ट्र, भारत 425401"
-  }
+  },
+
+  "privacy": {
+  "title": "विक्रेत्यांसाठी गोपनीयता धोरण",
+  "effective_date_label": "प्रभावी तारीख:",
+  "effective_date": "01/08/2025",
+
+  "intro1": "Ninjafarm Services Private Limited (“आम्ही,” “आमचे”) आपल्या प्लॅटफॉर्म p च्या माध्यमातून कॉन्ट्रॅक्ट पोल्ट्री फार्मिंग कंपन्या आणि वैयक्तिक विक्रेत्यांची (“आपण,” “आपले”) वैयक्तिक/व्यावसायिक माहिती सुरक्षित ठेवण्यास वचनबद्ध आहे, जे आमच्या डिजिटल प्लॅटफॉर्मवर आपले पोल्ट्री उत्पादन सूचीबद्ध आणि विकतात.",
+  "intro2": "ही गोपनीयता धोरण Poultrywala प्लॅटफॉर्म वापरताना आम्ही तुमची माहिती कशी गोळा, वापर, सामायिक आणि सुरक्षित करतो हे स्पष्ट करते.",
+
+  "section1_title": "1. आम्ही कोणती माहिती गोळा करतो",
+  "section1_intro": "आम्ही खालील प्रकारची माहिती गोळा करू शकतो:",
+
+  "section1_a_title": "a. व्यावसायिक माहिती",
+  "section1_a_list": [
+    "कंपनीचे नाव, नोंदणी तपशील (CIN, GST, इ.)",
+    "व्यवसाय पुरावा जसे नोंदणी प्रमाणपत्र किंवा इतर पुरावा",
+    "अधिकृत संपर्क व्यक्तीचे नाव, फोन नंबर, ईमेल",
+    "फार्मचा पत्ता/स्थान",
+    "उत्पादन सूची (प्रकार, जात, वजन, दर, उपलब्धता)",
+    "पेमेंटसाठी बँक तपशील"
+  ],
+
+  "section1_b_title": "b. वैयक्तिक विक्रेत्याची माहिती",
+  "section1_b_list": [
+    "पूर्ण नाव",
+    "आधार क्रमांक / पॅन कार्ड (सत्यापनासाठी)",
+    "फोन नंबर आणि ईमेल",
+    "फार्मचा पत्ता/स्थान",
+    "उत्पादन तपशील",
+    "पेमेंट आणि बँक संबंधी माहिती",
+    "व्यवसाय पुरावा (नोंदणी प्रमाणपत्र किंवा दुकान कायदा परवाना)"
+  ],
+
+  "section1_c_title": "c. प्लॅटफॉर्म वापर डेटा",
+  "section1_c_list": [
+    "लॉगिन माहिती (IP पत्ता, डिव्हाइस प्रकार, OS)",
+    "अॅप/वेबसाइट क्रिया, प्राधान्ये, सूची",
+    "व्यवहार इतिहास (ऑर्डर्स, पेमेंट, रिफंड)"
+  ],
+
+  "section2_title": "2. आम्ही तुमची माहिती कशी वापरतो",
+  "section2_list": [
+    "आपले विक्रेता खाते तयार करणे आणि व्यवस्थापित करणे",
+    "आपली उत्पादन सूची प्रमाणित खरेदीदारांना दर्शवणे",
+    "सुरक्षित व्यवहार आणि पेमेंट सुलभ करणे",
+    "आपली ओळख सत्यापित करणे",
+    "ऑर्डर, समर्थन आणि अपडेटसंदर्भात संवाद",
+    "कायदेशीर आणि कर संबंधित नियमांचे पालन",
+    "प्लॅटफॉर्मची कार्यक्षमता आणि वापरकर्ता अनुभव सुधारणे"
+  ],
+
+  "section3_title": "3. तुमची माहिती कोणासोबत शेअर केली जाते",
+  "section3_list": [
+    "आम्ही तुमची वैयक्तिक/व्यावसायिक माहिती विकत नाही किंवा भाड्याने देत नाही.",
+    "ऑर्डर प्रक्रियेसाठी प्रमाणित व्यापाऱ्यांसोबत",
+    "कायद्याअंतर्गत आवश्यक असल्यास सरकारी विभागांसोबत",
+    "पेमेंट पार्टनर्स, लॉजिस्टिक्स किंवा सेवा पुरवठादारांसोबत (गोपनीयतेअंतर्गत)",
+    "ग्राहक समर्थन, ऑडिट आणि कार्यांसाठी अंतर्गत टीमसोबत"
+  ],
+
+  "section4_title": "4. तुमचे अधिकार",
+  "section4_list": [
+    "आमच्याकडे असलेली तुमची माहिती पाहण्याचा अधिकार",
+    "चुकीची किंवा कालबाह्य माहिती दुरुस्त करण्याचा अधिकार",
+    "तुमचे खाते आणि डेटा हटवण्याची विनंती करण्याचा अधिकार (कायदेशीर कारणांशिवाय)",
+    "अनावश्यक सूचना नाकारण्याचा अधिकार"
+  ],
+
+  "section5_title": "5. डेटा सुरक्षा",
+  "section5_intro": "आपली माहिती सुरक्षित ठेवण्यासाठी आम्ही मजबूत तांत्रिक आणि प्रशासकीय उपाय वापरतो:",
+  "section5_list": [
+    "एंड-टू-एंड एन्क्रिप्शन",
+    "सुरक्षित सर्व्हर आणि भूमिका-आधारित प्रवेश नियंत्रण",
+    "नियमित ऑडिट आणि निरीक्षण"
+  ],
+  "section5_note": "आमच्या प्रयत्नांनंतरही कोणतीही प्रणाली 100% सुरक्षित नसते. तुमच्या लॉगिन माहितीचे संरक्षण करणे तुमची जबाबदारी आहे.",
+
+  "section6_title": "6. तृतीय-पक्ष सेवा",
+  "section6_text": "Poultrywala प्लॅटफॉर्म तृतीय-पक्ष सेवा (पेमेंट गेटवे, लॉजिस्टिक्स, अकाउंटिंग साधने) वापरू शकतो. त्यांची गोपनीयता धोरणे स्वतंत्रपणे लागू असतील.",
+
+  "section7_title": "7. डेटा जतन कालावधी",
+  "section7_text": "तुमचे खाते सक्रिय असेपर्यंत किंवा कायदेशीर/नियामक आवश्यकतांसाठी आम्ही तुमचा डेटा जतन करतो.",
+
+  "section8_title": "8. धोरणातील बदल",
+  "section8_text": "आम्ही वेळोवेळी हे धोरण बदलू शकतो. बदलांनंतर प्लॅटफॉर्मचा वापर सुरू ठेवल्यास ते तुमची सहमती असे मानले जाईल.",
+
+  "section9_title": "9. आमच्याशी संपर्क करा",
+  "section9_address": "नोंदणीकृत कार्यालय: अमळनेर, जिल्हा जळगाव, महाराष्ट्र, भारत",
+  "section9_email": "Email: support@ninjafarm.in",
+  "section9_phone": "Phone: 9834512510"
+}
+
 
 
       

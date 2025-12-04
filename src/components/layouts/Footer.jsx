@@ -43,9 +43,11 @@ const Footer = () => {
             <li>
                 <Link to="/terms-and-conditions">{t("footer_terms_conditions")}</Link>
             </li>
-            <li>
+        { /*
+          <li>
               <Link to="/seller-policy" className="hover:underline">{t("footer_seller_policy")}</Link>
             </li>
+          */ } 
             <li>
               <Link to="/payment-policy" className="hover:underline">{t("footer_payment_refund")}</Link>
             </li>

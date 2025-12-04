@@ -14,6 +14,8 @@ import LanguagePopup from "./components/layouts/languagepopup.jsx";
 import { useTranslation } from "react-i18next";
 
 import TermsAndCondition from "./pages/TermsAndCondition.jsx";
+import PrivacyPolicy from "./pages/PrivacyPolicy.jsx";
+import PaymentTerms from "./pages/PaymentTerms.jsx";
 
 function App() {
   const { t } = useTranslation();
@@ -72,6 +74,8 @@ function App() {
 
         {/* LEGAL PAGE */}
         <Route path="/terms-and-conditions" element={<TermsAndCondition />} />
+        <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+        <Route path="/payment-policy" element={<PaymentTerms />} />
       </Routes>
 
       {/* Hide footer on legal pages */}
