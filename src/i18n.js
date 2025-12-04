@@ -359,7 +359,45 @@ i18n
   "section9_address": "Registered Office: Amalner Dist Jalgaon Maharashtra India",
   "section9_email": "Email: support@ninjafarm.in",
   "section9_phone": "Phone: 9834512510"
+},
+
+
+"payment": {
+  "title": "Payment Terms and Conditions for Traders",
+  "subtitle": "Poultrywala (A product of Ninjafarm Services Private Limited)",
+
+  "section1_title": "1. Manual Payment Submission:",
+  "section1_list": [
+    "All traders are required to complete payment manually via NEFT/IMPS/RTGS or UPI to the designated Poultrywala account before order processing.",
+    "After making the payment, the trader must upload the correct UTR/Transaction ID, payment amount, and the bank account used on the Poultrywala platform at the time of order placement."
+  ],
+
+  "section2_title": "2. Responsibility of Accuracy:",
+  "section2_list": [
+    "The trader is solely responsible for ensuring that the UTR ID/Transaction ID submitted is accurate, verifiable, and corresponds to the correct payment.",
+    "Uploading incorrect, invalid, or fake UTR/Transaction IDs is considered a violation of the terms and will be treated as a fraudulent act."
+  ],
+
+  "section3_title": "3. Verification and Processing:",
+  "section3_list": [
+    "Orders will only be processed after manual verification of the submitted transaction ID by Poultrywala’s finance team.",
+    "If the transaction is not traceable or does not match the declared details, Poultrywala reserves the right to hold, cancel, or delay the order until payment confirmation."
+  ],
+
+  "section4_title": "4. Consequences of Fake or Misleading Payment Info:",
+  "section4_list": [
+    "Permanent suspension of the trader’s account.",
+    "Blacklisting from the Poultrywala platform.",
+    "Legal action under applicable laws, including recovery of dues with penalty and interest."
+  ],
+
+  "section5_title": "5. Non-Refundable Policy on Fraudulent Payments:",
+  "section5_text": "In the event a transaction is found to be fake or disputed, any advance amount or credit involved will not be refunded or adjusted unless proven genuine after investigation.",
+
+  "section6_title": "6. Right to Modify or Update:",
+  "section6_text": "Poultrywala reserves the right to modify these terms without prior notice. Traders are advised to regularly review the latest terms during each order placement."
 }
+
 
       
       
@@ -720,7 +758,44 @@ i18n
   "section9_address": "पंजीकृत कार्यालय: अमलनेर जिला जलगांव, महाराष्ट्र, भारत",
   "section9_email": "Email: support@ninjafarm.in",
   "section9_phone": "Phone: 9834512510"
+},
+
+"payment": {
+  "title": "व्यापारियों के लिए भुगतान की शर्तें एवं नियम",
+  "subtitle": "Poultrywala (Ninjafarm Services Private Limited का उत्पाद)",
+
+  "section1_title": "1. मैनुअल भुगतान सबमिशन:",
+  "section1_list": [
+    "सभी व्यापारियों को ऑर्डर प्रोसेस होने से पहले NEFT/IMPS/RTGS या UPI के माध्यम से Poultrywala के निर्धारित खाते में मैनुअल भुगतान करना आवश्यक है।",
+    "भुगतान करने के बाद, व्यापारी को सही UTR/ट्रांज़ैक्शन ID, भुगतान की राशि और जिस बैंक खाते से भुगतान किया गया है, उसकी जानकारी Poultrywala प्लेटफ़ॉर्म पर ऑर्डर करते समय अपलोड करनी होगी।"
+  ],
+
+  "section2_title": "2. सटीकता की ज़िम्मेदारी:",
+  "section2_list": [
+    "व्यापारी पूरी तरह से ज़िम्मेदार है कि वह जो UTR/ट्रांज़ैक्शन ID सबमिट कर रहा है वह सही, सत्यापन योग्य और वास्तविक भुगतान से मेल खाती हो।",
+    "गलत, अवैध या नकली UTR/ट्रांज़ैक्शन ID अपलोड करना नियमों का उल्लंघन माना जाएगा और इसे धोखाधड़ी की गतिविधि समझा जाएगा।"
+  ],
+
+  "section3_title": "3. सत्यापन और प्रोसेसिंग:",
+  "section3_list": [
+    "ऑर्डर तभी प्रोसेस किया जाएगा जब Poultrywala की फाइनेंस टीम सबमिट किए गए ट्रांज़ैक्शन ID का मैनुअल सत्यापन कर लेगी।",
+    "यदि भुगतान ट्रेस नहीं होता या सबमिट की गई जानकारी से मेल नहीं खाता, तो Poultrywala ऑर्डर को रोकने, रद्द करने या पुष्टि मिलने तक विलंब करने का अधिकार रखता है।"
+  ],
+
+  "section4_title": "4. गलत या भ्रामक भुगतान जानकारी के परिणाम:",
+  "section4_list": [
+    "व्यापारी के खाते का स्थायी निलंबन।",
+    "Poultrywala प्लेटफ़ॉर्म से ब्लैकलिस्ट।",
+    "लागू कानूनों के तहत कानूनी कार्रवाई, जिसमें बकाया राशि की वसूली, पेनल्टी और ब्याज शामिल है।"
+  ],
+
+  "section5_title": "5. धोखाधड़ी वाले भुगतान पर गैर-वापसी योग्य नीति:",
+  "section5_text": "यदि भुगतान नकली या विवादित पाया जाता है, तो संबंधित अग्रिम राशि या क्रेडिट तब तक वापस नहीं किया जाएगा जब तक जांच में भुगतान वास्तविक साबित न हो।",
+
+  "section6_title": "6. नियमों में संशोधन का अधिकार:",
+  "section6_text": "Poultrywala बिना पूर्व सूचना के इन शर्तों में बदलाव करने का अधिकार रखता है। व्यापारियों को प्रत्येक ऑर्डर से पहले नवीनतम शर्तों की समीक्षा करने की सलाह दी जाती है।"
 }
+
 
 
 
@@ -1083,7 +1158,44 @@ i18n
   "section9_address": "नोंदणीकृत कार्यालय: अमळनेर, जिल्हा जळगाव, महाराष्ट्र, भारत",
   "section9_email": "Email: support@ninjafarm.in",
   "section9_phone": "Phone: 9834512510"
+},
+
+"payment": {
+  "title": "व्यापाऱ्यांसाठी पेमेंट नियम व अटी",
+  "subtitle": "Poultrywala (Ninjafarm Services Private Limited चे उत्पादन)",
+
+  "section1_title": "1. मॅन्युअल पेमेंट सबमिशन:",
+  "section1_list": [
+    "ऑर्डर प्रोसेस होण्यापूर्वी सर्व व्यापाऱ्यांनी NEFT/IMPS/RTGS किंवा UPI द्वारे Poultrywala च्या निर्धारित खात्यावर मॅन्युअल पेमेंट करणे अनिवार्य आहे.",
+    "पेमेंट झाल्यानंतर, व्यापाऱ्याने योग्य UTR/ट्रान्झॅक्शन ID, पेमेंट रक्कम आणि वापरलेले बँक खाते ऑर्डर करताना Poultrywala प्लॅटफॉर्मवर अपलोड करणे आवश्यक आहे."
+  ],
+
+  "section2_title": "2. अचूकतेची जबाबदारी:",
+  "section2_list": [
+    "सबमिट केलेला UTR/ट्रान्झॅक्शन ID अचूक, सत्यापन करण्याजोगा आणि वास्तविक पेमेंटशी जुळणारा आहे याची संपूर्ण जबाबदारी व्यापाऱ्याची आहे.",
+    "चुकीचा, अवैध किंवा बनावट UTR/ट्रान्झॅक्शन ID अपलोड करणे हे नियमांचे उल्लंघन असून ते फसवणूक मानले जाईल."
+  ],
+
+  "section3_title": "3. सत्यापन आणि प्रोसेसिंग:",
+  "section3_list": [
+    "Poultrywala ची फायनान्स टीम ट्रान्झॅक्शन ID चे मॅन्युअल सत्यापन केल्यानंतरच ऑर्डर प्रोसेस केला जाईल.",
+    "जर पेमेंट ट्रेस न झाल्यास किंवा दिलेल्या तपशीलांशी जुळत नसेल तर Poultrywala ऑर्डर होल्ड, रद्द किंवा पेमेंटची पुष्टी मिळेपर्यंत विलंब करण्याचा अधिकार राखून ठेवतो."
+  ],
+
+  "section4_title": "4. चुकीची किंवा भ्रामक पेमेंट माहितीचे परिणाम:",
+  "section4_list": [
+    "व्यापाऱ्याचे खाते कायमस्वरूपी निलंबित केले जाईल.",
+    "Poultrywala प्लॅटफॉर्मवरून ब्लॅकलिस्ट करण्यात येईल.",
+    "लागू कायद्यांनुसार कायदेशीर कारवाई — दंड आणि व्याजासह थकबाकीची वसूली."
+  ],
+
+  "section5_title": "5. फसवणूक झालेल्या पेमेंटवर गैर-परतावा धोरण:",
+  "section5_text": "पेमेंट बनावट किंवा विवादित आढळल्यास, संबंधित आगाऊ रक्कम किंवा क्रेडिट परत केले जाणार नाही, जोपर्यंत तपासात पेमेंट वास्तविक असल्याचे सिद्ध होत नाही.",
+
+  "section6_title": "6. नियमांमध्ये बदल करण्याचा अधिकार:",
+  "section6_text": "Poultrywala पूर्वसूचना न देता या अटी बदलू शकतो. व्यापाऱ्यांनी प्रत्येक ऑर्डरपूर्वी अद्ययावत अटी तपासाव्यात."
 }
+
 
 
 
